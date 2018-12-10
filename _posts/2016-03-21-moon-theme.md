@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "我的测试"
 date:   2016-04-06
 excerpt: "Minimal, one column Jekyll theme for your blog."
 project: true
@@ -12,22 +12,6 @@ tag:
 - theme
 comments: true
 ---
-
----
-layout:     post
-title:      "Hello 2018"
-subtitle:   " \"Hello World, Hello Blog\""
-date:       2018-11-01 12:00:00
-author:     "憧憬"
-header-img: "img/post-bg-2015.jpg"
-catalog: true
-tags:
-    - 生活
-    - Meta
----
-
-> “Yeah It's on. ”
-
 
 ## 前言
 
