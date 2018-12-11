@@ -4,7 +4,7 @@ bio:                '个人博客'
 description:        "ant html sass php js 微信小程序 app laravel vue mysql pgsql"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/timg.gif'
+logo:               'assets/img/timg.jpg'
 
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
