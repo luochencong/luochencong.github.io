@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "拉拉"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
+title: "Blog搭建"
+date: 2012-12-11
+excerpt: "非常使用简单的博客搭建"
 tags: [sample post, readability, test]
 comments: true
 ---
 
 ## 前言
 
-憧憬 的 Blog 就这么开通了。
+L 的 Blog 就这么开通了。
 
 2018 年，Longing 总算有个地方可以好好写点东西了。
 
@@ -52,6 +52,6 @@ Theme 的 CSS 是基于 Bootstrap 定制的，看得不爽的地方直接在 Les
 
 回顾这个博客的诞生，纯粹是出于个人兴趣，干程序员这么久，终于可以找个地方把以前的学习笔记发布出来了。
 
-—— 憧憬 后记于 2018.11.01
+—— L 后记于 2018.11.01
 
 
