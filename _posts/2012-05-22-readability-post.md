@@ -3,7 +3,7 @@ layout: post
 title: "Blog搭建"
 date: 2012-12-11
 excerpt: "非常使用简单的博客搭建"
-tags: [sample post, readability, test]
+tags: [jekeyll]
 comments: true
 ---
 
