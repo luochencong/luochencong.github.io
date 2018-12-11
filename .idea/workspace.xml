@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812eedaf-eac6-4508-82d6-036a991f87eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,14 +45,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="45" />
-          <entry key="md" value="277" />
+          <entry key="md" value="458" />
           <entry key="yml" value="101" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="45" />
-          <entry key="PLAIN_TEXT" value="277" />
+          <entry key="PLAIN_TEXT" value="458" />
           <entry key="YAML" value="101" />
         </counts>
       </usages-collector>
@@ -85,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="60">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -231,12 +230,12 @@
       <option name="presentableId" value="Default" />
       <updated>1544424515912</updated>
       <workItem from="1544424517466" duration="4453000" />
-      <workItem from="1544497941547" duration="6441000" />
+      <workItem from="1544497941547" duration="6998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10894000" />
+    <option name="totallyTimeSpent" value="11451000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,7 +250,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.2715774" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49917898" visible="true" weight="0.23586309" />
       <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.2715774" />
       <window_info id="Favorites" order="2" sideWeight="0.500821" side_tool="true" weight="0.2715774" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -437,8 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="60">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

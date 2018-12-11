@@ -18,7 +18,17 @@ comments: false
 
 ## 正文
 
-*现在我用的最多的是 [ANT DESIGN PRO](https://pro.ant.design/index-cn) ，当然也是用的比较熟练的，
+*现在我用的最多的是 [ANT DESIGN PRO](https://pro.ant.design/index-cn) ，当然也是用的比较熟练的。
+
+*然后就是一些语言 php html css sass js react 
+
+*接着就是一些框架 phpcms laravel vue ant-pro react-navigation thinkphp 
+
+本人本身是学习广告学，所以还会一些ps。
+
+
+
+
 
 
 
