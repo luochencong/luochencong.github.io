@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="812eedaf-eac6-4508-82d6-036a991f87eb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="812eedaf-eac6-4508-82d6-036a991f87eb" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -31,7 +29,7 @@
           <entry key="gif" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="25" />
-          <entry key="jpg" value="3" />
+          <entry key="jpg" value="4" />
           <entry key="md" value="28" />
           <entry key="png" value="2" />
           <entry key="scss" value="1" />
@@ -42,7 +40,7 @@
         <counts>
           <entry key="CSS" value="2" />
           <entry key="HTML" value="25" />
-          <entry key="Image" value="6" />
+          <entry key="Image" value="7" />
           <entry key="PLAIN_TEXT" value="30" />
           <entry key="SCSS" value="1" />
           <entry key="YAML" value="4" />
@@ -70,15 +68,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2016-03-21-moon-theme.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/home.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -97,10 +86,12 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-540" />
+            <state relative-caret-position="720">
+              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -132,6 +123,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/read-time.html">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/img/placeholder-big.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -184,7 +180,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="329" />
     <option name="y" value="11" />
     <option name="width" value="1386" />
@@ -284,12 +280,12 @@
       <updated>1544424515912</updated>
       <workItem from="1544424517466" duration="4453000" />
       <workItem from="1544497941547" duration="8422000" />
-      <workItem from="1544507308273" duration="151000" />
+      <workItem from="1544507308273" duration="560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13026000" />
+    <option name="totallyTimeSpent" value="13435000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -404,9 +400,6 @@
     <entry file="file://$PROJECT_DIR$/assets/img/timg.gif">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/placeholder-big.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -477,8 +470,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-540" />
+        <state relative-caret-position="720">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/placeholder-big.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
