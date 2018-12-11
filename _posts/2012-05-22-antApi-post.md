@@ -21,9 +21,7 @@ ant 入手比较难，但是用的时间长了你会发现，它是很方便的�
 
 *首先找到config 文件下的 config.js文件
 
-*添加以下代码(其实就是通过正则匹配)  
-   
-   ```proxy: {  
+*添加以下代码(其实就是通过正则匹配)  ```proxy: {  
         '/api/': {  
             target: '你要访问的地址',
              changeOrigin: true,
@@ -33,6 +31,7 @@ ant 入手比较难，但是用的时间长了你会发现，它是很方便的�
    ```
      
 *然后就可以再api 文件里添加新的api 发送了(我的后台是laravel)
+
     ```export async function apiName(params) {
         return request('/url', {
             method: 'POST',

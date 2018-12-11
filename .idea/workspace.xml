@@ -51,14 +51,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="76" />
-          <entry key="md" value="914" />
+          <entry key="md" value="918" />
           <entry key="yml" value="104" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="76" />
-          <entry key="PLAIN_TEXT" value="914" />
+          <entry key="PLAIN_TEXT" value="918" />
           <entry key="YAML" value="104" />
         </counts>
       </usages-collector>
@@ -99,8 +99,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2012-05-22-antApi-post.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+            <state relative-caret-position="315">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
@@ -280,12 +280,12 @@
       <updated>1544424515912</updated>
       <workItem from="1544424517466" duration="4453000" />
       <workItem from="1544497941547" duration="8422000" />
-      <workItem from="1544507308273" duration="3143000" />
+      <workItem from="1544507308273" duration="3236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16018000" />
+    <option name="totallyTimeSpent" value="16111000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,8 +486,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2012-05-22-antApi-post.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="29" column="2" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+        <state relative-caret-position="315">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
