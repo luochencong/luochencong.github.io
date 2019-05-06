@@ -3,7 +3,7 @@ layout: post
 title: "mysql三大范式"
 date: 2019-05-06
 excerpt: "规范"
-tags: [laravel]
+tags: [mysql]
 comments: true
 ---
 

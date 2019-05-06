@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="812eedaf-eac6-4508-82d6-036a991f87eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-06-mysql-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-antApi-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2012-05-22-antApi-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2012-05-22-readability-post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2012-12-13-cors-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2012-12-13-cors-post.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-06-mysql-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-06-mysql-post.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -162,8 +158,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-06-mysql-post.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="269">
-                <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <first_editor relative-caret-position="150">
+                <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -304,12 +300,12 @@
       <workItem from="1545706056255" duration="252000" />
       <workItem from="1545738274135" duration="596000" />
       <workItem from="1545803169248" duration="3000" />
-      <workItem from="1557150626126" duration="957000" />
+      <workItem from="1557150626126" duration="1076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22797000" />
+    <option name="totallyTimeSpent" value="22916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -623,8 +619,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-06-mysql-post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="269">
-            <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <first_editor relative-caret-position="150">
+            <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
